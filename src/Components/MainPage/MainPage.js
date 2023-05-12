@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./MainPage.css";
 import Post from "../Post/Post";
-import uploadImage from "../../images/upload.png";
+import uploadImage from "../../images/add-icon-png-2480.png";
 import { storage, auth } from "../firebase";
 
 class MainPage extends Component {

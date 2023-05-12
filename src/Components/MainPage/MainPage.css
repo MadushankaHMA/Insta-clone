@@ -1,23 +1,25 @@
 .mainpage__uploadicon {
-    height: 80px;
-    width: 80px;
+  height: 90px;
+  width: 90px;
+  justify-content: center;
 }
 .mainpage__divider {
-    height: 0px;
-    width: 220px;
-    border: 1px solid #dbdbdb;
-    margin-top: 40px;
+  height: 0px;
+  width: 220px;
+  border: 1px solid #dbdbdb;
+  margin-top: 40px;
+  justify-content: center;
 }
 .mainpage__container {
-    text-align: center;
-    margin: 0px 10px 0px -20px;
-    display :flex ;
-    justify-content: center ;
-}   
+  text-align: center;
+  margin: 0px 10px 0px -20px;
+  display: flex;
+  justify-content: center;
+}
 .fileupload > input {
-    display: none;
+  display: none;
 }
 .upload_text {
-    text-align: center;
-    margin-left: -25px;
+  text-align: center;
+  margin-left: -25px;
 }
